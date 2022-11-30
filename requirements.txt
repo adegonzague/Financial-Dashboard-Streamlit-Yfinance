@@ -2,7 +2,7 @@ streamlit
 pandas
 yfinance
 PIL
-datetime import
+datetime
 plotly.subplots
 plotly.graph_objects
 numpy
