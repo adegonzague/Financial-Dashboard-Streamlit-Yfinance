@@ -2,8 +2,7 @@ streamlit
 pandas
 yfinance
 datetime
-plotly.subplots
-plotly.graph_objects
+plotly
 numpy
-matplotlib.pyplot
-pandas_datareader.data
+matplotlib
+pandas_datareader
