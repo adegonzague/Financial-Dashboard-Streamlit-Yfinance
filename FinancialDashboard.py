@@ -487,7 +487,7 @@ def run():
     initial_sidebar_state="expanded")
     
     #Yahoo Finance Image
-    image = Image.open('./img/yfinance.png')
+    image = Image.open('yfinance.png')
     st.sidebar.image(image)
     
     # Get the list of stock tickers from S&P500
