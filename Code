@@ -1,0 +1,3 @@
+git remote add origin https://github.com/adegonzague/Financial-Dashboard-Streamlit-Yfinance.git
+git branch -M Financial Dashboard Code
+git push -u origin main
