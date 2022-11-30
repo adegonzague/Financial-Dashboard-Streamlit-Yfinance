@@ -1,7 +1,7 @@
 streamlit
 pandas
 yfinance
-PIL
+pillow
 datetime
 plotly.subplots
 plotly.graph_objects
